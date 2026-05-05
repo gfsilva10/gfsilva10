@@ -11,7 +11,7 @@
 
 **3rd year**
 - [**SD**](https://github.com/gfsilva10/SD_Project) - Time-Series Database for Sales Events, designed in the scope of the Distributed Systems course.
-- [**Inside Airbnb (IPM)**]([https://github.com/gfsilva10/SD_Project](https://github.com/gfsilva10/IPM-Project)) - interactive web application built with Vue.js, following best practices in usability, component architecture, and interface design.
+- [**Inside Airbnb (IPM)**](https://github.com/gfsilva10/IPM-Project) - interactive web application built with Vue.js, following best practices in usability, component architecture, and interface design.
 - [**MCLei (DSS)**](https://github.com/gfsilva10/DSS-Project) - Manager for a fast-food establishment, balancing the needs of staff management with customer order processing, made with Java.
 - [**CC**](https://github.com/gfsilva10/CC_Project) -  Made for the Computer Communications course.
 
